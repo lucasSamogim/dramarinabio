@@ -2,7 +2,7 @@ function share(){
 	if (navigator.share !== undefined) {
 		navigator.share({
 			title: 'Dra Marina Luiza Carbonera',
-			text: 'Biomédica Esteta',
+			text: 'Dra. Marina Carbonera - Biomédica Esteta',
 			url: 'https://lucassamogim.github.io/dramarinabio/',
 		})
 		.then(() => console.log('Successful share'))
