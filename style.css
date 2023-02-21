@@ -21,7 +21,6 @@ body {
     height: 130px;
     border-radius: 50%;
     border: 2px solid #FFF;
-    background-color: red;
     margin: 0 auto;
     margin-top: 40px;
 }
@@ -45,3 +44,17 @@ body {
     color: #FFF;
 }
 
+footer {
+    width: 100%;
+    height: 100px;
+}
+
+.footer-img {
+    margin: 0 auto;
+    height: 100%;
+    width: 200px;
+}
+
+.footer-img img {
+    width: 100%;
+}
