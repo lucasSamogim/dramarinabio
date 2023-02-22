@@ -1,0 +1,17 @@
+.subtitle {
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFF;
+    margin-bottom: 20px;
+}
+
+.aboutme {
+    color: #FFF;
+}
+
+.instalink {
+    text-decoration: none;
+    color: #FFF;
+    font-weight: 700;
+    text-decoration: underline;
+}
