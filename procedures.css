@@ -1,0 +1,13 @@
+.subtitle {
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFF;
+}
+
+.card-title-color {
+    color: #34375a !important;
+}
+
+.back-btn {
+    margin-top: 80px;
+}
