@@ -1,7 +1,5 @@
 # Dra. Marina Carbonera Bio
 
-![Dra. Marina Carbonera Bio](https://github.com/lucasSamogim/dramarinabio/blob/main/assets/images/drama-banner.png | width=150)
-
 ## Introdução
 
 Bem-vindo ao repositório Dra. Marina Carbonera Bio! Este é um projeto pessoal desenvolvido para a profissional de Biomedicina Estética Dra. Marina utilizar como linktree em seus perfil do Instagram. O projeto está sendo construído com base nas necessidades e preferências da Dra. Marina Carbonera e tem como objetivo fornecer uma presença online profissional e atraente.
