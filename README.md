@@ -1,6 +1,6 @@
 # Dra. Marina Carbonera Bio
 
-![Dra. Marina Carbonera Bio](https://github.com/lucasSamogim/dramarinabio/blob/master/images/profile-pic.png)
+<img src="https://github.com/lucasSamogim/dramarinabio/blob/main/assets/images/drama-banner.png" alt="Dra. Marina Carbonera Bio" width="150px">
 
 ## Introdução
 
